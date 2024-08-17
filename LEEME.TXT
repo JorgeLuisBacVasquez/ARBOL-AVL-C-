@@ -1,0 +1,13 @@
+# Calculadora Simple en JavaScript usando Programación Orientada a Objetos
+
+## Descripción
+
+Esta es una calculadora web básica desarrollada utilizando HTML, CSS y JavaScript. Implementa la lógica de la calculadora usando programación orientada a objetos (OOP) en JavaScript. La aplicación permite realizar operaciones matemáticas básicas, incluyendo suma, resta, multiplicación y división.
+
+## Características
+
+- Interfaz de usuario intuitiva y responsiva.
+- Cálculos precisos para operaciones matemáticas básicas.
+- Implementación de la lógica de la calculadora utilizando clases y métodos en JavaScript.
+
+
