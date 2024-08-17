@@ -1,5 +1,5 @@
-// script.js
-const FIXED_KEY = 'MiClaveFija'; // Puedes cambiar esta clave a lo que desees
+
+const FIXED_KEY = 'MiClaveFija'; 
 
 function xorCipher(text, key) {
     let result = '';
